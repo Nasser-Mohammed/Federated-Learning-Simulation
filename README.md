@@ -4,4 +4,4 @@ Currently compatibly with simple CNN and VGG neural net. Resnet not yet availabl
 Program will automatically download datasets. 
 Follow the prompts and the program will return a plot of the accuracy vs epochs 
 Multiprocessesing and sequential are both available
-![Alt text](Federated-Learning-Simulation/main/?raw=true "Output Image")
+![Alt text](Federated-Learning-Simulation/main/Cifar10onCNN2.png?raw=true "Output Image")
